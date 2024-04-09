@@ -3,9 +3,9 @@ export default async function ProjectTokenModal({
 }) {
   return (
     <>
-        <div>Intercepted</div>
-        <div>Id: {id}</div>
-        <div>Token: {token}</div>
+      <div>Intercepted</div>
+      <div>Id: {id}</div>
+      <div>Token: {token}</div>
     </>
   )
 }
